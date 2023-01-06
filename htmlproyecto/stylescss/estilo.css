@@ -1,0 +1,108 @@
+body{
+background:#2f2c79;
+background-image:url(https://wallpaperstock.net/wallpapers/thumbs1/56423hd.jpg);	
+
+background-repeat:no-repeat;
+background-size:100% 100% ;
+background-attachment:fixed ;
+background-position-x: 50%;
+background-position-y: 50%;
+ color:white;	
+}
+/*categorias y logotipo*/
+.Logotipo {background:;
+	width:100%;
+	height:100px;
+	color:white;
+}
+h1{font-size:40px; }
+ 
+ .Logotipo_a{
+ 	color: white;
+ }
+ 
+    /*links color fuente,desactivacion*/
+        a:link{text-decoration: none;}
+            a{ color:white; }
+
+  
+                    /*Cuadros de peliculas/Inico/Page1*/
+
+div {
+    display: inline-block;
+    
+}
+.Titular1{
+    position: relative;
+    top: 10px; left:10px; 
+}
+.Titular2{
+    position: relative;
+    top: 48px; left: 20px; 
+}
+.Titular3{
+    position: relative;
+    top: 48px; left: 40px; 
+}
+.Titular4{
+    position: relative;
+    top: 48px; left: 70px; 
+}
+.Titular5{
+    position: relative;
+    top: 10px; left: 110px; 
+}
+.publicidad{
+    position: relative;
+    top: 5px; left: 130px; 
+}
+
+.Titular6.Titular7.Titular8.Titular9.Titular10.Titular11{
+    position: relative;
+    top: 96px; left: 10px; 
+}
+
+.Titular12.Titular13.Titular14.Titular15.Titular16.Titular17{
+    position: relative;
+    top: 96px; left: 10px; 
+}
+
+/*modificador de nombres inferiores de las peliculas--->*/
+
+ .namePe{
+    color:white;
+ }
+
+
+/*configuracion de pagiana de peliculaas aplica a todas
+Imagen de la pelicula esta señalada como .Pelicula_post*/
+
+.Pelicula_pos{
+    position:relative;
+    top:30px; left:150px
+}
+
+
+.Trama_Pe{
+    color:white;
+}
+.Link_P{
+    color:silver;
+}
+/*Sec estrenos no hay nada*/
+
+
+/*Sec animacion se hace correccion en Titular_2A por desacomodo*/
+
+
+.Animacio_t{
+    display: inline-block;
+}
+/*Sec animacion se hace correccion en Titular*/
+.Titulares_ac{
+    display: inline-block;
+}
+
+
+/*pagina de las peliculas y un diseño intuitivo*/
+/*olucionar el problema del acomodo de las imagenes
